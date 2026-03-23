@@ -45,7 +45,8 @@ src
 
 ## Preview
 
-<img width="1885" height="871" alt="image" src="https://github.com/user-attachments/assets/3ed285b8-7f9a-4ada-a936-01b94e3deba9" />
+<img width="1885" height="871" alt="image" src="https://github.com/user-attachments/assets/6d3f8192-58c1-4e3a-a400-ff4b5d1a4b86" />
+
 
 ## Installation & Setup
 
